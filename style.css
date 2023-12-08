@@ -103,11 +103,13 @@ body {
     top:100%;
     left:0;
     font-family: "kajiro";
-    font-size: 9.5vw;
-    color: rgb(213, 206, 192);
+    font-size: 5.5vw;
+    
+    color: rgb(255 0 0);
     font-weight: 100;
     letter-spacing: 3px;
     line-height: .8;
+    text-shadow: 3px 3px 4px yellow;
 }
 
 #heroleft button {
